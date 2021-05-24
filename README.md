@@ -1,4 +1,4 @@
-HealthCate
+HealthCare
 ==========
 
 Test apps 
